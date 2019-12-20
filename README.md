@@ -1,5 +1,6 @@
 #GPA Calculator#
 1. About
+
 I wrote this project to calculate my GPA and predict my target GPA for next semester.
 This project also informs you of your Honours Class.
 
